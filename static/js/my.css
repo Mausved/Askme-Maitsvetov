@@ -1,0 +1,236 @@
+/* Custom page CSS
+-------------------------------------------------- */
+/* Not required for template or sticky footer method. */
+
+main > .container {
+  padding: 60px 15px 0;
+}
+
+.footer {
+  background-color: #f5f5f5;
+}
+
+.footer > .container {
+  padding-right: 15px;
+  padding-left: 15px;
+}
+
+code {
+  font-size: 80%;
+}
+
+.question-box {
+    margin-top: 30px;
+    border: 1px solid gray;
+    border-radius: 10px;
+    padding: 20px;
+}
+
+.question-img {
+	max-width: 100%;
+	height: auto;
+}
+
+.question-title {
+	font-size 20px;
+	font-weight: bold;
+}
+
+.header {
+	vertical-align: top;
+	text-align: left;
+    padding-bottom: 10px;
+	font-size: 35px;
+	font-weight: bold;
+}
+
+
+.popular_tags{
+	font-size: 16px;
+}
+
+.tags{
+    padding-bottom: 20px;
+    line-height: 33px;
+}
+
+popular_tags_very_popular{
+	color: orange;
+	font-size: 30px;
+	padding-right: 10px;
+	font-weight: bold;
+}
+
+popular_tags_popular{
+
+	color: blue;
+	font-size: 22px;
+    padding-right: 10px;	
+}
+
+popular_tags_standart{
+	color: black;
+	font-size: 16px;
+	padding-right: 10px;
+}
+
+.links {
+	vertical-align: top;
+	color:blue;
+	font-size: 20px;
+    text-decoration-line: underline;
+    line-height: 40px;	
+}
+
+.form-control.mr-sm-2 {
+ 	inline-size: 700px;
+	position: fixed;
+    left: calc(50% - 700px/2);
+}
+
+.btn-outline-success{
+	color: green;
+}
+
+.btn.btn-outline-success.my-2.my-sm-0{
+	position: absolute;
+    right: 500px;
+    background-color: green
+    color: white;
+}
+
+.element.style
+{
+	position: absolute;
+    left: 1500px;
+}
+
+.container.col-9 {
+	padding-top: 50px;
+}
+
+.container.boxes {
+	padding-left: 0px;
+	padding-right: 40px;
+	padding-top: 20px;
+}
+
+.row.box
+{
+	margin-left: 0%;
+	margin-bottom: 20px;
+	height: 210px;
+	border: solid;
+	border-width: 0px;
+	border-radius: 20px;
+	border-color: grey;
+}
+
+
+.avatar{
+	border: solid;
+	border-width: 2px;
+	border-radius: 7px;
+	position: relative;
+    left: 50%;
+    transform: translate(-50%, 0);
+	margin-top: 10px;
+	margin-bottom: 10px;
+	max-width: 120%;
+	height: auto;
+	min-height: 130px;
+}
+
+.row.header{
+	vertical-align: top;
+	color:blue;
+	font-size: 30px;
+    text-decoration-line: underline;
+    line-height: 40px;	
+    font-weight: normal;
+    margin-left: 10px;
+    margin-top: 10px;
+}
+
+.row.text{
+	margin-left: 10px;
+    padding-right: 10px;
+    min-height: 115px;
+    padding-top: 10px;
+}
+
+.row.text2{
+	margin-left: 10px;
+    padding-right: 10px;
+    min-height: 170px;
+    padding-top: 10px;
+}
+
+.row.text3{
+	margin-left: 10px;
+    padding-right: 10px;
+    min-height: 200px;
+    padding-top: 10px;
+}
+
+
+.row.counter{
+	border: solid;
+	border-width: 1px;
+	border-radius: 5px;
+	height: 100%;
+	display: flex;
+	align-items: center;
+    justify-content: center;
+	font-size: 20px;
+	font-weight: bold;
+	color: green;
+}
+
+.container.forms {
+	padding-left: 0px;
+	padding-right: 40px;
+	padding-top: 20px;
+}
+
+.ans.col-3{
+	padding-top: 0px;
+	vertical-align:middle;
+}
+.row.tags.col-1{
+	position: relative;
+	top:-5px;
+	padding-left: 0px;
+	margin-right: 10px;
+	padding-top: 0px;
+	vertical-align:middle;
+}
+.row.tags.col-2{
+	position: relative;
+	top: -5px;
+	left: 0px;
+	padding-top: 0px;
+	vertical-align:middle;
+	padding-left: 0px;
+}
+
+.row.ans\0026tags{
+	max-height: 30px;
+}
+
+.form-check{
+position: relative;
+left:10px;
+}
+
+.for_check_box{
+	position: relative;
+	top:-4px;
+	font-size: 20px;
+	color:green;
+}
+
+.form-control2{
+	min-width: 305px;
+
+}
